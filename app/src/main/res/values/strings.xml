@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">小车阵列</string>
+    <string name="title_activity_wifi_connect">wifiConnect</string>
+</resources>
